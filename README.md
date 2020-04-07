@@ -123,6 +123,10 @@
 
 ## 数据库
 
+### redis
+
+1. [docker搭建redis集群](./数据库/redis/docker搭建redis集群.md)
+
 1. [mysql存储过程](./数据库/mysql存储过程.md)
 2. [mysql异常](./数据库/mysql异常.md)
 3. [mysql清档](./数据库/mysql清档.md)
@@ -137,11 +141,13 @@
 
 ## docker
 
-1. [镜像下载加速](./docker/镜像下载加速.md)
-2. [基础命令](./docker/基础命令.md)
-3. [创建镜像](./docker/创建镜像.md)
-4. [Dockerfile](./docker/dockerfile.md)
-5. [Supervisor管理进程](./docker/supervisor管理进程.md)
+1. [安装](./docker/安装docker.md)
+2. [镜像下载加速](./docker/镜像下载加速.md)
+3. [基础命令](./docker/基础命令.md)
+4. [创建镜像](./docker/创建镜像.md)
+5. [Dockerfile](./docker/dockerfile.md)
+6. [Supervisor管理进程](./docker/supervisor管理进程.md)
+7. [设置容器网络代理](./docker/设置容器网络代理.md)
 
 ## linux
 
@@ -157,6 +163,7 @@
 10. [source命令](./linux/source命令.md)
 11. [查看占用端口的进程](./linux/查看占用端口的进程.md)
 12. [虚拟机设置静态ip](./linux/虚拟机设置静态ip.md)
+13. [vim配置tab为空格](./linux/vim配置tab为空格.md)
 
 ## windows
 
