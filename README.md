@@ -94,6 +94,12 @@
 4. [单元测试及事务](./springframework/单元测试及事务.md)
 5. [运行时注册bean](./springframework/运行时注册bean.md)
 
+## 大数据
+
+### hadoop
+
+1. [配置集群](./大数据/hadoop/配置集群.md)
+
 ## 日志
 
 ### logback
