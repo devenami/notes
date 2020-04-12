@@ -169,7 +169,8 @@
 10. [source命令](./linux/source命令.md)
 11. [查看占用端口的进程](./linux/查看占用端口的进程.md)
 12. [虚拟机设置静态ip](./linux/虚拟机设置静态ip.md)
-13. [vim配置tab为空格](./linux/vim配置tab为空格.md)
+13. [vim配置](./linux/vim配置.md)
+14. [shell](./linux/shell.md)
 
 ## windows
 
